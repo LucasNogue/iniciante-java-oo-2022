@@ -9,7 +9,6 @@
 - Java
 - Intellij
 
-
 ## ⚙️ Funcionalidades do projeto
 
 - `Cadastro de participantes`: projeto possibilida o cadastro dos participantes: mentor, aprendiz e gestor.
